@@ -1,4 +1,3 @@
-// Doing Math (User Input)
 import java.util.Scanner;
 
 public class Panugaling_Activity_VI {
